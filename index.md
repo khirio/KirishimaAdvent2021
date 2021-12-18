@@ -12,7 +12,7 @@
 最初に断っておきますが、私は心理学の専門家ではないし、統計的にまとめるには調査対象の母数が圧倒的に足りません。ですので、信憑性についてはあまり期待しないでください。
 
 <div align="center">
-<img src="img/mbti_matrix2.png">
+<img src="img/mbti_matrix2.PNG">
 </div>
 
 ## MBTI とは
